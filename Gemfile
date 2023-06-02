@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     #gem 'wdm', '>= 0.1.0'
     gem 'listen' #, '~> 3.7'
-    #gem 'jekyll' ,'3.9.3'
-    gem 'jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head'
+    gem 'jekyll' #,'3.9.3'
+    #gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
     gem 'liquid'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
