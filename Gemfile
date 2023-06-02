@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'github-pages'
     gem 'jemoji'
+    gem 'bibtex-ruby'
 #    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
